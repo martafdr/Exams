@@ -1,0 +1,13 @@
+Marta a-Transport-7 b-Economy-8
+Marta c-Philosophy-7.5 z-Logic-yes
+Marta z1-Maths-yes z2-Ecology-no z3-Physics-yes z4-Chemistry-no z5-Biology-yes
+Susi a-Transport-6 b-Economy-8
+Susi c-Philosophy-8.5 z-Logic-yes
+Susi z1-Maths-no z2-Ecology-no z3-Physics-yes z4-Chemistry-no z5-Biology-yes
+Max a-English-7 b-German-8
+Max c-Philosophy-7.5 z-Logic-yes
+Max z1-Maths-yes z2-Ecology-no z3-Physics-no z4-Chemistry-no z5-Biology-yes
+Den a-English-7 b-German-8
+Den c-Philosophy-8.0 z-Logic-no
+Alisa a-Transport-4 b-Economy-8
+
